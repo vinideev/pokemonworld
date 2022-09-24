@@ -1,0 +1,23 @@
+.base {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagem-cabecalho {
+    width: 500px;
+}
+
+.bandeira {
+    width: 250px;
+    padding-top: 20px;
+}
+
+.secao2 {
+    background-color: rgb(112, 45, 45);
+    padding-bottom: 20px;
+}
+
+.secao1 {
+    background-color: gray;
+    padding-bottom: 20px;
+}

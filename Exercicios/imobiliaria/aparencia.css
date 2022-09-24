@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto+Condensed:wght@300&family=Roboto+Mono:wght@300&display=swap');
+.site-principal {
+    text-align: center;
+    margin: auto;
+    font-family: 'Roboto Mono', monospa;
+    
+}
+
+.img-icon {
+    width: 200px;
+    padding-bottom: 10px;
+}
+
+.img-fundo {
+    width: 1200px;
+    margin-top: 40px;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+
+.img-condo {
+    width: 600px;
+    padding-top: 20px;
+}
+
+.img-parceria {
+    width: 600px;
+    
+}
+
+.divisao2, .divisao4, .divisao6 {
+    background-color: #3b6564;
+    margin: 0;
+    
+}
+
+.divisao1, .divisao3, .divisao5 {
+    background-color:#87c8b6;
+    margin: 0;
+}
+
+.link .link-a {
+    padding: 8px;
+    text-decoration: underline;
+    color: #24383e;
+    font-weight: bold;
+    
+}
+
+h1 {
+    background-color: #e8e8c5 ;
+    color:#969639 ;
+    font-weight: bold;
+    
+}
+
+p {
+    color: #1a1724;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 50px;
+    width: 600px;
+    margin: auto;
+}
+
+.subtitulo {
+    text-decoration: overline;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+.destaque {
+    color: #1da2c9;
+}
+

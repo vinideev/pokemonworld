@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Poppins:wght@200&family=Roboto+Condensed:wght@300&family=Roboto+Mono:wght@300&display=swap');
+
+img {
+    width: 300px;
+    height: 300PX;
+    border-radius: 15PX;
+    padding: 10px;
+}
+
+body {
+    text-align: center;
+    background-image: url(https://d1fs8ljxwyzba6.cloudfront.net/assets/article/2020/11/12/genshin-impact-glaze-lily-location-header_feature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    
+}
+
+.cabecalho {
+    background-image: url(https://image-cdn.essentiallysports.com/wp-content/uploads/Screenshot-2021-07-10-192916.png);
+    min-height: 400px;
+    background-size: cover;
+    text-align: right;
+}
+
+.cabecalho-txt {
+    padding-right: 20px;
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.conteudo {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.conteudo-txt {
+    width: 400px;
+    margin: 15px auto;
+    padding-top: 20px;
+
+}
+
+.nome1 {
+    background-color: white;
+    color: rgb(97, 179, 108);
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 15px;
+    padding: 15px;
+    
+}
+
+.nome2 {
+    background-color: white;
+    color: rgb(194, 115, 190);
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 15px;
+    padding: 15px;
+    
+}
+
+.habilidades1 {
+    background: rgb(112,182,182);
+background: linear-gradient(87deg, rgba(112,182,182,1) 18%, rgba(78,194,88,1) 80%);
+    width: 500px;
+    height: 200px;
+    margin: auto;
+}
+
+.habilidades2 {
+    background: rgb(181,137,176);
+    background: linear-gradient(87deg, rgba(181,137,176,1) 18%, rgba(205,205,205,1) 80%);
+    width: 500px;
+    height: 200px;
+    margin: auto;
+}
+
+.texto {
+    padding: 5px;
+    color: rgb(26, 19, 19);
+    border-left: 5px;
+}
+
+.frames {
+    margin: auto;
+    width: 300px;
+}

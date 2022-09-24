@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto+Condensed:wght@300&family=Roboto+Mono:wght@300&display=swap');
+
+img {
+    width: 400px;
+}
+
+body {
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2020/04/red-aesthetic-wallpaper-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    text-align: center;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.fundo2 {
+    background-image: url(https://64.media.tumblr.com/2481be6a70bc449b820991dbcca8648b/5b6bac09e5a659fc-39/s640x960/cdb00119d0d938431d604f79ffdbf4784b2b82c6.jpg);
+    
+ }
+ 
+
+.card {
+    background-color: white;
+    width: 700px;
+    margin: auto;
+    border-radius: 20px;
+    border: 3px dotted white;
+    
+}
+
+a {
+    background-color: rgb(24, 24, 24);
+    border-radius: 10px;
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(197, 60, 60);
+    padding: 5px;
+}
+
+.info {
+    padding: 30px;
+}
+
+p {
+    color: rgb(41, 41, 41);
+    font-weight: bold;
+}
+
+.sobre {
+    background-color: white;
+    margin: auto;
+}
+
+.imagem {
+    width: 300px;
+    margin: 10px;
+}
+
+.paragrafo {
+    width: 600px;
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+.info2 {
+    background-color: white;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.skills {
+    background-color: white;
+    border-radius: 15px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+

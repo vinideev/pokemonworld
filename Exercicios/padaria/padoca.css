@@ -1,0 +1,62 @@
+img {
+    width: 600px;
+    margin-bottom: 20px;
+    border: 3px solid rgb(0, 0, 0);
+   
+    
+}
+
+.pagina {
+    text-align: center;
+    background-color: rgb(197, 167, 121);
+}
+
+.cabecalho {
+    padding-top: 30px;
+}
+
+.links {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.indice {
+    color: rgb(231, 227, 223);
+}
+
+.vitrine {
+    border-bottom: 5px solid white;
+}
+
+.frase-sabor {
+    color: rgb(116, 69, 32);
+}
+
+.info {
+    background-color: rgb(221, 174, 85);
+    width: 700px;
+    color: rgb(231, 227, 223);
+    margin: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.contato {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span {
+    font-weight: bold;
+}
+

@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Josefin+Sans:wght@200&family=Poppins:wght@200&family=Roboto+Condensed:wght@300&family=Roboto+Mono:wght@300&display=swap');
+
+body {
+    text-align: center;
+    background-color: #f3f1ef;
+    color: aliceblue;
+    font-family: 'Dosis', sans-serif;
+    
+}
+
+
+.cabecalho {
+    background-color: #c73535;
+    height: 40%;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    margin: 30px;
+    color: #eae7e7;
+    
+}
+
+p {
+    font-size: 20px;
+    color: #133238;
+}
+
+.fundo {
+  
+    width: 90%;
+    margin: 20px 0 0 5%;
+    background-color: #e98b11;
+    padding-top: 30px;
+    opacity: 90%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0px rgb(61, 60, 59) inset;
+    
+    
+}
+
+.imagem {
+    width: 60%;
+    padding: 30px;
+    margin: auto;
+}
+
+.contos {
+    width: 600px;
+    height: 230px;
+    margin: auto;
+    overflow-y: scroll;
+    color: rgb(51, 50, 50);
+    
+
+}
+
+h2 {
+    color: #133238;
+    margin-bottom: 40px;  
+}
+
+h1 {
+    background-color: #fab330;
+
+}
+.fundo-primeiro{
+    width: 60%;
+    border-left: 10px solid #c73535;
+    border-right: 10px solid #c73535;
+    
+    
+}
+.imagem-selecao {
+    background-color: #eae7e7;
+    height: 300px;
+    display: flex;    
+    overflow-x: scroll;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+    
+    
+}
+
+.foto {
+    margin: 8px;
+}
+
+.rodape {
+    font-size: 16px;
+    display: inline;
+    background-color: #381313;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    opacity: 50%;
+}
+
+
+
+.card2 {
+    width: 320px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #ffb500;
+    margin: 0 30px 0 0;
+    border-radius: 12px;
+    color: black;
+    font-size: 18px;
+    box-shadow: 0 0 5px 6px rgb(211, 103, 40) inset;
+}
+
+.card{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    display: flex;
+    
+}
+
+.card-imagem {
+    height: 200px;
+    width: 60%;
+
+}
+
+.card3 {
+    position: relative;
+    background-color: #ffb500;
+    width: 40%;
+    border-radius: 35px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 5px 6px rgb(211, 103, 40) inset;
+      
+}
+
+.mestre {
+    width: 60%;
+}
+
+.mestres-card {
+    overflow-x: scroll;
+    display: flex;
+    
+}
+
+.nome-m {
+    text-decoration: underline;
+}
+
+.pokebola {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50px;
+
+}
+
+.curiosidades {
+    border: 5px solid rgb(211, 103, 40);
+    padding: 5px;
+    position: relative;
+    margin-top: 50px;
+}
+
+.span {
+    color: #381313;
+    background-color:#ffb500;
+    font-size: 20px;
+    position: absolute;
+    left: 15px;
+    top: -20px;
+    padding: 2px;
+}
