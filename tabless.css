@@ -1,0 +1,70 @@
+
+nav {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+a {
+    margin-right: 10px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    border-bottom: 1px solid black;
+}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+img{ 
+    width: 400px;
+}
+.conteiner {
+    display: flex;
+    overflow-x: scroll;
+    margin: auto;
+    scroll-snap-type: x;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 24px;
+    border-radius: 24px;
+    gap: 12px;
+
+}
+
+.conteiner .box {
+    flex: 0 0 100%;
+    padding: 24px;
+    border-radius: 8px;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+
+}
+
+
+
